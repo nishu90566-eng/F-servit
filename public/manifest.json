@@ -1,0 +1,18 @@
+{
+  "name": "Servit Cooperative",
+  "short_name": "Servit",
+  "description": "Cooperative-owned hyperlocal household and community services",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#16A34A",
+  "theme_color": "#16A34A",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
