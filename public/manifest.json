@@ -1,11 +1,11 @@
 {
-  "name": "Servit Cooperative",
-  "short_name": "Servit",
-  "description": "Cooperative-owned hyperlocal household and community services",
+  "name": "SEWA-SETU Cooperative",
+  "short_name": "SEWA-SETU",
+  "description": "Cooperative household-services and materials marketplace",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#16A34A",
-  "theme_color": "#16A34A",
+  "background_color": "#0f5132",
+  "theme_color": "#0f5132",
   "orientation": "portrait",
   "icons": [
     {
